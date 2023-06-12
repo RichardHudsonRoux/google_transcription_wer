@@ -1,0 +1,10 @@
+.vscode
+transcripts
+python/__pycache__
+localrun
+configfiles
+gcloud
+node_modules
+temp.json
+test.html
+.env
